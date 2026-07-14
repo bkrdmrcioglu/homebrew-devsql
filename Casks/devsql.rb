@@ -1,8 +1,8 @@
 cask "devsql" do
-  version "0.2.1"
-  sha256 "2de6ffd905348a2421e9f53755836a6ce19993d90746e97f695cd4dff8e9de1b"
+  version "0.2.2"
+  sha256 "7cec04b51a9720594757074e9a48ce3a23482d75bc0d8c71bafa2a848efdd95b"
 
-  url "https://github.com/bkrdmrcioglu/devsql-site/releases/download/v0.2.1/DevSQL-0.2.1.zip"
+  url "https://github.com/bkrdmrcioglu/devsql-site/releases/download/v0.2.2/DevSQL-0.2.2.zip"
   name "DevSQL"
   desc "Part of DevSuites — see https://devsuites.dev/devsql/"
   homepage "https://devsuites.dev/devsql/"
