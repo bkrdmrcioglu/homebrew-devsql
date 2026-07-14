@@ -1,6 +1,6 @@
 cask "devsql" do
-  version "0.1.0"
-  sha256 "d4b1d64c203d28cdac6e9ad8410ac29cae32f2ebfe47e7578a023adb38c575fc"
+  version "0.2.0"
+  sha256 "813e5ad25cd96849b27b1ccab0a5fd39f799748acc8e15211df3b108df273712"
 
   url "https://github.com/bkrdmrcioglu/devsql-site/releases/download/v#{version}/DevSQL-#{version}.zip"
   name "DevSQL"
